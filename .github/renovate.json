@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "github>djohts/renovate-config",
+        "github>djohts/renovate-config:force-node-version(18)"
+    ]
+}

@@ -1,0 +1,15 @@
+*
+
+!components/*
+!lib/*
+!pages/*
+!public/*
+!styles/*
+!next-env.d.ts
+!next.config.js
+!package.json
+!postcss.config.js
+!tailwind.config.js
+!tsconfig.json
+!types.d.ts
+!yarn.lock
